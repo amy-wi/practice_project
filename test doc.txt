@@ -1,6 +1,5 @@
-hello this is a test doc
+Hello this is a test doc.
 
-this is an edit, or change to be committed
+This is an edit made on main.
 
-
-This is an edit I've made in a new branch. To practice pull requests.
+This is an edit made in a new branch. To practice pull requests.
